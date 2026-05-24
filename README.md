@@ -15,3 +15,4 @@ Algoritmo utilizado: Kruskal, também foi usado PRIM para fins de comparação.
 Análise de complexidade: E log E 
 
 Imagem que comprova Accepted:  
+![Evidencia](https://github.com/GRLERIK/T1-MST/blob/main/T1-MST/evidencias/Captura%202026-05-24%20Compara%C3%A7%C3%A3o.png)
